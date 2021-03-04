@@ -2,7 +2,7 @@
 * Leading the engineering & data science team developing the next-gen end point protection, DeepArmor (https://www.sparkcognition.com/products/deeparmor/)
 * Pursuing a Doctorate of Science in Cybersecurity focusing on developing a next gen network intrusion detection system (Research Source code: https://github.com/jcapellman/MLIDS)
 
-# Side Work
+# Open Source Side Work
 Like most engineeers - I love to code, creating something from a blank canvas inside an IDE since I was 9 years old has always captivated me. Below are a few highlights of this side work I do after hours in my free time.
 
 ## Cybersecurity Side work
@@ -21,4 +21,4 @@ Repository of Threat Research from some nights and weekends (https://github.com/
 * **ML.NET Deep Dives** - ML.NET repo (https://github.com/jcapellman/mlnet-deep-dives)
 
 ## Other Side Work
-* **bbxp** - Blogging Platform
+* **bbxp** - Blogging Platform (https://github.com/jcapellman/bbxp)

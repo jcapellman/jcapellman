@@ -3,7 +3,7 @@
 * Pursuing a Doctorate of Science in Cybersecurity focusing on developing a next gen network intrusion detection system (Research Source code: https://github.com/jcapellman/MLIDS)
 
 # Open Source Side Work
-Like most engineeers - I love to code, creating something from a blank canvas inside an IDE since I was 9 years old has always captivated me. Below are a few highlights of this side work I do after hours in my free time.
+Like most engineeers - I love to code, creating something from a blank canvas inside an IDE since I was 9 years old has always captivated me. Below are a few highlights of this side work I do after hours in my free time.  Some repositories are at early stages from a weekend or evening deep-dive - if interested in the work please let me know.
 
 ## Cybersecurity Side work
 * **AMLIDS** - Android Machine Learning IDS (https://github.com/jcapellman/AMLIDS)

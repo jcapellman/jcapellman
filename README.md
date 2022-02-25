@@ -8,7 +8,7 @@ Like most engineeers - I love to code, creating something from a blank canvas in
 ## Cybersecurity Side work
 * **AMLIDS** - Android Machine Learning IDS (https://github.com/jcapellman/AMLIDS)
 * **Cleanware Generator (CWG)** - File Generation as a service for creating EICAR files (https://github.com/jcapellman/cwg)
-* **Macho File Parser (MFP)** - From scratch Macho parser written in C# (.NET 5) with support for Fat Binaries, ARM64, X86 and AMD64 files (https://github.com/jcapellman/MFP)
+* **Macho File Parser (MFP)** - From scratch Macho parser written in C# (.NET 6) with support for Fat Binaries, ARM64, X86 and AMD64 files (https://github.com/jcapellman/MFP)
 * **Malware Efficacy Over Time (MEOT)** - Web App to track detection capabilities over time (https://github.com/jcapellman/MEOT)
 * **Malware Embedding Tool & Library (METL)** - Advanced Malware Techniques (https://github.com/jcapellman/METL)
 * **Windows Event Tracing (WET)** - Wrapper for handling and capturing events (Registry, Network, Process etc.) (https://github.com/jcapellman/WET)

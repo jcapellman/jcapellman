@@ -13,7 +13,7 @@ Like most engineeers - I love to code, creating something from a blank canvas in
 * **Malware Embedding Tool & Library (METL)** - Advanced Malware Techniques (https://github.com/jcapellman/METL)
 * **Windows Event Tracing (WET)** - Wrapper for handling and capturing events (Registry, Network, Process etc.) (https://github.com/jcapellman/WET)
 
-Repository of Threat Research from some nights and weekends (https://github.com/jcapellman/Threat-Research)
+Repository of Threat Research from some nights and weekends digging into APTs (https://github.com/jcapellman/Threat-Research)
 
 ## Machine Learning Side Work
 

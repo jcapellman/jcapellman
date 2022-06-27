@@ -1,5 +1,5 @@
 # Current Work | School
-* Leading the engineering & data science team developing the next-gen end point protection, DeepArmor (https://www.sparkcognition.com/products/deeparmor/)
+* Leading the engineering & data science team developing the next-gen end point protection, DeepArmor (https://www.sparkcognition.com/solutions/endpoint-protection/)
 * Pursuing a Doctorate of Science in Cybersecurity focusing on developing a next gen network intrusion detection system (Research Source code: https://github.com/jcapellman/MLIDS)
 
 # Open Source Side Work

@@ -1,5 +1,5 @@
 # Current Work | School
-* Leading several engineering & data science teams developing AI services, libraries and a next gen-end point protection, SparkCognition EPP (https://www.sparkcognition.com/solutions/endpoint-protection/)
+* Leading several engineering & data science teams developing AI Web services, libraries and a next gen-end point protection, SparkCognition EPP (https://www.sparkcognition.com/solutions/endpoint-protection/)
 * Pursuing a Doctorate of Science in Cybersecurity focusing on developing a next gen network intrusion detection system (Research Source code: https://github.com/jcapellman/MLIDS)
 
 # Open Source Side Work

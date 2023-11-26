@@ -1,5 +1,5 @@
-# Current Work | School
-* Leading several engineering teams developing AI powered technology
+# Current Work
+* Leading the Engineering Teams @ SparkCognition developing AI powered technology across several verticals
 * Pursuing a Doctorate of Science in Cybersecurity focusing on developing a next gen network intrusion detection system (Research Source code: https://github.com/jcapellman/MLIDS)
 
 # Open Source Side Work

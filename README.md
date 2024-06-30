@@ -1,5 +1,5 @@
 # Current Work
-* Leading the Engineering Teams @ SparkCognition developing AI powered technology across several verticals
+* Leading the Engineering Teams @ SparkCognition developing AI powered technology across several verticals and building a next generation Industrial AI Platform
 * Pursuing a Doctorate of Science in Cybersecurity focusing on developing a next gen network intrusion detection system (Research Source code: https://github.com/jcapellman/MLIDS)
 
 # Open Source Side Work
